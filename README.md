@@ -63,6 +63,15 @@ UGO permissions: User = rwx, Group = r-x, Others = r-x
 Umask: 022
 ```
 
+
+## Example Command-line Help
+To view the command-line help and options, use the following command:
+
+```bash
+hchmod --help
+```
+This will display the available options and usage instructions for the `hchmod` command.
+
 ## License
 
 This project is licensed under the [MIT License](https://github.com/R-D-Y/helpchmod/blob/main/LICENSE).
