@@ -1,5 +1,3 @@
-
-
 # hchmod
 
 A command-line tool to decode chmod numbers and provide explanations.
