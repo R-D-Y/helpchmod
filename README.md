@@ -65,6 +65,6 @@ Umask: 022
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/R-D-Y/helpchmod/blob/main/LICENSE).
 
 Feel free to modify and use `hchmod` to decode chmod numbers easily and understand permission settings on your Linux system.
